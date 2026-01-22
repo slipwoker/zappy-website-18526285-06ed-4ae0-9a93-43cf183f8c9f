@@ -1,0 +1,53 @@
+# טיולי עולם — Generative Engine Optimization Map
+
+> A תיירות וטיולים business.
+
+---
+
+## Pages
+
+### Home
+https://-18526285.zappy5.app
+
+### Trips
+https://-18526285.zappy5.app/trips
+
+### About
+https://-18526285.zappy5.app/about
+
+### Contact
+https://-18526285.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-18526285.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-18526285.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-18526285.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טיולי עולם
+טיולי עולם is a business in the תיירות וטיולים industry.
+
+## Target Audience
+קבוצות שמחפשות מדריך טוב לטיולים
+
+## Industry
+תיירות וטיולים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-18526285.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-18526285.zappy5.app/robots.txt
